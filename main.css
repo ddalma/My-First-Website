@@ -1,0 +1,41 @@
+
+h1{
+	text-align: center;
+	color: red;
+
+}
+
+#summary {
+	text-align: center;
+	color: red;
+}
+
+#info, #info2, #info3{
+	font-family: cursive;
+	font-size: 20px;
+	color: black;
+}
+ul {
+	float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+	list-style-position: inside;
+	display: inline;
+	
+}
+
+i{
+	color: red;
+}
+
+img {
+	height: 200px;
+	width:  200px;
+}
+
+div {
+	text-align: center;
+}
+
